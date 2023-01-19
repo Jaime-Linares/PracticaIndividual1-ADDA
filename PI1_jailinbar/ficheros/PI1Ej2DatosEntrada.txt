@@ -1,0 +1,6 @@
+10,20,adda
+20,30,second course
+30,40,analysis
+40,50,design
+50,75,data
+75,50,algorithms

@@ -1,0 +1,6 @@
+5,java,10,eclipse,20
+10,interface,20,class,30
+4,void,8,return,16
+5,for,15,while,25
+20,if,30,else,40
+15,import,25,static,50
